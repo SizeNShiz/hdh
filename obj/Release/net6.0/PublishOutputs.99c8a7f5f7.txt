@@ -1,0 +1,7 @@
+C:\Users\SizeN\source\repos\learning\learning\publish\learning.exe
+C:\Users\SizeN\source\repos\learning\learning\publish\appsettings.Development.json
+C:\Users\SizeN\source\repos\learning\learning\publish\appsettings.json
+C:\Users\SizeN\source\repos\learning\learning\publish\learning.dll
+C:\Users\SizeN\source\repos\learning\learning\publish\learning.deps.json
+C:\Users\SizeN\source\repos\learning\learning\publish\learning.runtimeconfig.json
+C:\Users\SizeN\source\repos\learning\learning\publish\learning.pdb
